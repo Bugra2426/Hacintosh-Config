@@ -12,12 +12,12 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 | Component        | Model                                  |
 | ---------------- | -------------------------------------- |
-| CPU              | AMD Ryzen 7 2700                       |
+| CPU              | Intel Core™ i5-9400F                       |
 | MotherBoard      | MSI Pro VDH Max                        |
-| OS Disk          | Kingston 240gb SSD                     |
-| RAM              | 2x 8gb Corsair Vengeance Pro 16GB Ram  |
-| GPU              | AMD Radeon RX570 4gb                       |
-| Cooler    	     | Cooler master hyper 410r               |
+| OS Disk          | Seagate 500gb HDD                     |
+| RAM              | 2x 8gb 16GB Ram  |
+| GPU              | AMD Radeon RX580 8gb                       |
+
 
 ## Working
 
@@ -27,19 +27,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Wifi
 * iServices & drm
 * Sleep
-
-## Not Working ( only ones I have tried, there may be more )
-
-* None apart from the known ones like sidecar afaik...
-
-## Patches, Drivers & Kexts
-
-* [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)
-* [AppleALC](https://github.com/acidanthera/AppleALC)
-* [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
-* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
-
-  Newer universal patches introduced in [this](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) commit requires you to update the core count of your processor. For more information on this subject, click [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).
   
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
@@ -51,7 +38,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
+I use OpenCore to multiboot Arch, Windows(11) and MacOS (Monterey)
 
 [![30030721.png](https://i.postimg.cc/DwqcL1jn/30030721.png)](https://postimg.cc/75Z7yJrW)
 
