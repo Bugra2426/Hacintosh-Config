@@ -2,7 +2,7 @@
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
-
+## MacOS Monterey
   ![photo 3](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/Hacintosh.png)
 
 ## Important information
@@ -38,7 +38,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Arch, Windows(11) and MacOS (Monterey)
+I use OpenCore to multiboot Arch Linux,Kali Linux, Windows 11 and MacOS Monterey
 
 [![30030721.png](https://i.postimg.cc/DwqcL1jn/30030721.png)](https://postimg.cc/75Z7yJrW)
 
