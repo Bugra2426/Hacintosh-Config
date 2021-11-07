@@ -3,7 +3,9 @@
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 ## MacOS Monterey
-  ![photo 3](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/Hacintosh.png)
+  ![photo mac](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/Hacintosh.png)
+## Windows 11
+  ![photo win](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/win.png)
 
 ## Important information
 * This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
