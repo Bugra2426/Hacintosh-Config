@@ -34,15 +34,16 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 * [RestrictEvents](https://github.com/acidanthera/RestrictEvents)
-* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
+* [AppleALC](https://github.com/acidanthera/AppleALC)
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+* [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
 ## Bootloader
 
 I use OpenCore to multiboot Arch Linux,Kali Linux, Windows 11 and MacOS Monterey
 
-[![30030721.png](https://i.postimg.cc/DwqcL1jn/30030721.png)](https://postimg.cc/75Z7yJrW)
+![photo opencore](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/ddawdqadaq.png)
 
 ## Credits and links
 
