@@ -41,7 +41,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Arch Linux,Kali Linux, Windows 11 and MacOS Monterey
+* I use OpenCore to multiboot Arch Linux,Kali Linux, Windows 11 and MacOS Monterey
+
+* The image below is a representation
 
 ![photo opencore](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/ddawdqadaq.png)
 
