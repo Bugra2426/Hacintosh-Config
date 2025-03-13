@@ -35,13 +35,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 * [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
-## Bootloader
-
-* I use OpenCore to multiboot Arch Linux,Kali Linux, Windows 11 and MacOS Monterey
-
-* The image below is a representation
-
-![photo opencore](https://raw.githubusercontent.com/Bugra2426/Hacintosh-Config/main/ddawdqadaq.png)
 
 ## Credits and links
 
